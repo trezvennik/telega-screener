@@ -8,4 +8,5 @@ Tasks:
 7. Other tool tips :))  
    a. Hide to tray with nice pic ;) or without (option from settings.ini)   
    b. Auto update connection to tg, if noone in local comp
+   c. Autp-update
    
